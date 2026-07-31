@@ -59,7 +59,7 @@ Learn by building real projects.
 - Machine Learning
 
 🏢 Internship
-Software Development Intern
+Computer Science Intern
 Asteelflash Tunisia
 
 ⚡ Fun Fact
@@ -216,11 +216,16 @@ Currently Learning
 ## Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
+<img src="https://skillicons.dev/icons?i=dotnet,html,css,js,bootstrap" />
 </p>
 
 - ASP.NET Core MVC
 - Entity Framework Core
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React
 
 ## Databases
 
@@ -325,11 +330,11 @@ My personal journey into:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/ben-fraj-roua-5852042b1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="roua.benfradj@enicar.ucar.tn">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
