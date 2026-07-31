@@ -1,263 +1,135 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F172A,100:312E81&height=220&section=header&text=Roua%20Ben%20Fraj%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=17&descColor=C7D2FE" width="100%"/>
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=180&section=header&text=%5BTon%20Nom%5D&fontSize=45&fontColor=ffffff&desc=AI%20%26%20Full-Stack%20Engineer%20in%20Progress%20%C2%B7%20%5BTon%20%C3%89cole%5D%20%C2%B7%20Tunisia&descSize=18&descAlignY=60)
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-
+🔧 Building <b>[Nom de ton projet phare]</b> — AI-powered web app<br>
+LLMs · RAG · FastAPI · Next.js · Docker · Automatisation intelligente
 </p>
 
-<br>
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-# 👩‍💻 About Me
-
-I'm a **Computer Science Engineering student at ENICarthage** passionate about building intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, and Software Engineering**.
-
-My journey focuses on transforming AI concepts into practical solutions through real-world projects, ranging from machine learning models and AI-powered applications to industrial software systems.
-
-Through academic projects, hackathons, IEEE activities, and my internship experience at **Asteelflash Tunisia**, I continuously develop my technical and leadership skills while exploring the future of intelligent technologies.
-
-```yaml
-Education:
-  ENICarthage
-  Computer Science Engineering
-
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Natural Language Processing
-  - Large Language Models
-  - Intelligent Applications
-
-Currently Exploring:
-  - Deep Learning
-  - Transformers
-  - RAG Systems
-  - AI Agents
-
-Career Goal:
-  Become an AI Engineer building impactful solutions
 ---
 
-# 🛠 Tech Stack
+### 📌 À propos
 
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cs,html,css,js,sql" />
-</p>
-
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-Technologies & Libraries:
-
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- TensorFlow
-- PyTorch
-
-Currently exploring:
-
-- Natural Language Processing
-- Transformers
-- Hugging Face Ecosystem
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,html,css,js,bootstrap" />
-</p>
-
-Technologies:
-
-- ASP.NET Core MVC
-- Entity Framework Core
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- SQL Server
-- Relational Database Design
-
-
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
-
-- Git & GitHub
-- Visual Studio
-- VS Code
-- API Integration
-
+```python
+profile = {
+    "name"      : "[Ton Nom]",
+    "role"      : "Ingénieur(e) en Cycle Ingénieur — Année 2",
+    "school"    : "[Ton École]",
+    "focus"     : "AI Engineering & Full-Stack Web Development",
+    "shipping"  : "Des produits IA concrets. Pas des tutos.",
+    "stack"     : ["Python", "FastAPI", "Next.js/React", "LLMs", "Docker", "PostgreSQL"],
+    "open_to"   : "Stages & collaborations en IA / Full-Stack 🌱"
+}
+```
 
 ---
 
-# 📂 Highlighted Repositories
+### 🚀 En cours de développement — [Nom du projet] *(description courte)*
 
+> [Une phrase décrivant l'objectif du projet — ex: "Un assistant IA qui génère et analyse du contenu en temps réel via une web app full-stack."]
 
-## 🏭 Board Management System
+Ce n'est pas un projet tutoriel. Voici les décisions techniques réelles :
 
-Industrial management platform developed during my internship at **Asteelflash Tunisia**.
+- **Étape 1 — [ex: Backend & API]** : [ex: API FastAPI avec authentification JWT, structuration des routes, connexion PostgreSQL]
+- **Étape 2 — [ex: Intégration LLM]** : [ex: Appel à un modèle LLM (Claude/OpenAI) pour générer/analyser du contenu, prompt engineering, gestion du contexte]
+- **Étape 3 — [ex: Frontend]** : [ex: Interface Next.js/React connectée à l'API, UI responsive avec Tailwind]
 
-Focused on:
-
-- Board lifecycle management
-- Production tracking
-- Boot configuration monitoring
-- User access control
-
-`C# • ASP.NET Core MVC • Entity Framework Core • SQL Server`
-
-
----
-
-## ⚡ SSEOS
-
-AI-powered renewable energy optimization dashboard.
-
-Combines machine learning prediction models with intelligent recommendations to support energy management.
-
-`Python • Streamlit • Scikit-learn • Gemini API`
-
+```
+Stack   : [FastAPI · Next.js · LLM API · Docker · PostgreSQL]
+Status  : [En cours — étape X/Y]
+Repo    : github.com/[ton-username]/[nom-repo]
+```
 
 ---
 
-## 🤖 AI Learning Repository
+### 🌱 Projets — Construits de zéro
 
-My continuous exploration of Artificial Intelligence through practical implementations.
+> Tout ce qui suit a été développé pendant l'année 2 en parallèle des cours d'ingénierie.
 
-Topics:
+#### 📓 [Nom du projet 1] — [Type, ex: "REST API de production"]
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Transformers
-- LLM Applications
-- RAG Systems
-- Fine-Tuning
+[Description en 1-2 phrases de ce que fait le projet et pourquoi il est intéressant.]
 
+```
+Stack     : [FastAPI · PostgreSQL · SQLAlchemy · JWT · Docker · pytest]
+Ce que    : [ex: schéma de BDD, migrations, middleware d'auth, tests, conteneurisation]
+j'ai fait
+Repo      : github.com/[ton-username]/[nom-repo]
+```
 
----
+#### 🤖 [Nom du projet 2] — [Type, ex: "Chatbot IA / RAG"]
 
-## 🏡 Machine Learning Projects
+[Description en 1-2 phrases.]
 
-Collection of predictive modeling experiments including:
+```
+Stack     : [LangChain/LlamaIndex · ChromaDB · LLM API · FastAPI]
+Ce que    : [ex: pipeline RAG, embeddings, indexation de documents, prompt engineering]
+j'ai fait
+Repo      : github.com/[ton-username]/[nom-repo]
+```
 
-- House Price Prediction
-- Heart Disease Prediction
+#### 🌐 [Nom du projet 3] — [Type, ex: "Web App Full-Stack"]
 
-Focus areas:
+[Description en 1-2 phrases.]
 
-- Data preprocessing
-- Feature engineering
-- Model training
-- Evaluation techniques
-
-
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
+```
+Stack     : [Next.js · React · Tailwind · API Backend]
+Ce que    : [ex: UI/UX, gestion d'état, appels API, déploiement]
+j'ai fait
+Repo      : github.com/[ton-username]/[nom-repo]
+```
 
 ---
 
-# 🎯 2026 Objectives
+### 💜 Tech Stack
 
-🚀 Strengthen my expertise in Artificial Intelligence Engineering
+**Langages**
 
-🤖 Build advanced AI applications using:
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
+**Backend & Bases de données**
 
-📚 Continue deepening my knowledge in:
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge)
 
-- Deep Learning
-- Natural Language Processing
-- Generative AI
+**IA & Machine Learning**
 
-🌍 Gain international AI engineering experience through internships and collaborations
+![OpenAI](https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/CHROMADB-6E56CF?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-🌱 Contribute to open-source projects related to AI and software engineering
+**Frontend**
 
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# 🤝 Let's Connect
-
+### 📊 GitHub Stats
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ben-fraj-roua-5852042b1">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-
-<a href="mailto:roua.benfradj@enicar.ucar.tn">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=[ton-username]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ton-username]&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
 
 ---
 
-<div align="center">
+### 💌 Me contacter
 
-### 💡 Building today, innovating with AI tomorrow.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge)](https://[ton-portfolio].netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[ton-linkedin])
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ton-email])
 
-⭐ Explore my repositories and follow my journey in Artificial Intelligence.
+> *Ouverte aux stages et collaborations en AI Engineering & Full-Stack Development. Je construis des choses qui fonctionnent en production, pas juste dans des notebooks.*
 
-</div>
-
-Principle:
-  Learn by building real-world projects.
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=100&section=footer)
