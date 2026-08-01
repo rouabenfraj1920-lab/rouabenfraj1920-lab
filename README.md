@@ -18,7 +18,7 @@ roua = {
     "role": "Computer Engineering Student — ENICarthage (Year 2)",
     "leadership": "Chair, IEEE Computer Society Student Chapter (150+ members)",
     "internship": "Web Developer @ Asteelflash Tunisia (Manufacturing)",
-    "focus": [  "AI" ,, "Machine Learning", "IoT", "LLMs & AI Agents", , "Full-Stack Web Dev"],
+    "focus": [  "AI" ,, "Machine Learning", "IoT", "LLMs & AI Agents", "Full-Stack Web Dev"],
     "open_to": "Internships & collaborations in AI Engineering 🌸"
 }
 ```
@@ -89,6 +89,7 @@ roua = {
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rouabenfraj1920-lab&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=rouabenfraj1920-lab&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rouabenfraj1920-lab&theme=radical" alt="streak" />
 </p>
