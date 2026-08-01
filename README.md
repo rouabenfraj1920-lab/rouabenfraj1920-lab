@@ -7,7 +7,7 @@
   <a href="mailto:roua.benfradj@enicar.ucar.tn"><img src="https://img.shields.io/badge/EMAIL-roua.benfradj@enicar.ucar.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Chair @ IEEE Computer Society ENICarthage ·  · Passionate about  AI and full-stack development.</i></p>
+<p align="center"><i>Chair @ IEEE Computer Society ENICarthage · 150+ members · Passionate about applied AI and full-stack development.</i></p>
 
 ---
 
@@ -17,8 +17,9 @@
 roua = {
     "role": "Computer Engineering Student — ENICarthage (Year 2)",
     "leadership": "Chair, IEEE Computer Society Student Chapter (150+ members)",
-    "internship": "Web Developer @ Asteelflash Tunisia (Manufacturing)",
-    "focus": ["AI " ,"Machine Learning", "LLMs & AI Agents" , "Full-Stack Web Dev"],
+    "internship": "AI/Web Developer @ Asteelflash Tunisia (Manufacturing)",
+    "focus": ["Full-Stack Web Dev", "Machine Learning", "IoT", "LLMs & AI Agents"],
+    "currently_prepping": "TSYP14 — Technical Challenge (August 2026)",
     "open_to": "Internships & collaborations in AI Engineering 🌸"
 }
 ```
@@ -52,16 +53,24 @@ roua = {
 **AI & ML**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Frontend & Tools**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -69,10 +78,12 @@ roua = {
 
 | Project | Description |
 |---|---|
-| 🌞 **SSEOS** | IoT + AI system (Random Forest, Gemini) for solar energy optimization |
-| 🏭 **BoardManagement** | ASP.NET Core MVC app for electronic board validation (Asteelflash internship) |
-| 📊 **Customer Segmentation** | K-Means, PCA, Elbow/Silhouette methods (Coursera ML Specialization) |
-| 🤖 *(your next project here)* | *...* |
+| 🌞 **[SSEOS](https://github.com/rouabenfraj1920-lab)** | IoT + AI system (Random Forest, Gemini agent, OpenWeatherMap, Streamlit) for solar energy optimization — SDGs 7, 9, 13 |
+| 🏭 **[BoardManagement (Asteelflash)](https://github.com/rouabenfraj1920-lab)** | ASP.NET Core MVC app for electronic board validation, built during my internship at Asteelflash Tunisia |
+| 🏠 **[House-Price-Prediction](https://github.com/rouabenfraj1920-lab/House-Price-Prediction)** | Machine Learning project for predicting house prices |
+| 🚑 **[ResQRoute-Project](https://github.com/rouabenfraj1920-lab/ResQRoute-Project)** | Real-time Dynamic Vehicle Routing solution for Emergency Medical Services — built at Humanovators 2.0 Hackathon |
+| 🎵 **[Music-Generator-using-Markov-Chains](https://github.com/rouabenfraj1920-lab/Music-Generator-using-Markov-Chains)** | Academic project exploring how Markov Chains can model and generate music sequences |
+| ❤️ **[Heart-Disease-Prediction-ML-Project](https://github.com/rouabenfraj1920-lab/Heart-Disease-Prediction-Machine-Learning-Project)** | Classifies heart disease risk from medical data — full pipeline: exploration, missing values, feature engineering |
 
 ---
 
