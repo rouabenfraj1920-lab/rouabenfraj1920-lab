@@ -36,6 +36,19 @@ roua = {
 
 ---
 
+## 📌 Pinned Projects
+
+| Project | Description |
+|---|---|
+| 🌞 **[SSEOS](https://github.com/rouabenfraj1920-lab)** | IoT + AI system (Random Forest, Gemini agent, OpenWeatherMap, Streamlit) for solar energy optimization — SDGs 7, 9, 13 |
+| 🏭 **[BoardManagement (Asteelflash)](https://github.com/rouabenfraj1920-lab)** | C # And ASP.NET Core MVC app for electronic board validation, built during my internship at Asteelflash Tunisia |
+| 🏠 **[House-Price-Prediction](https://github.com/rouabenfraj1920-lab/House-Price-Prediction)** | Machine Learning project for predicting house prices |
+| 🚑 **[ResQRoute-Project](https://github.com/rouabenfraj1920-lab/ResQRoute-Project)** | Real-time Dynamic Vehicle Routing solution for Emergency Medical Services — built at Humanovators 2.0 Hackathon |
+| 🎵 **[Music-Generator-using-Markov-Chains](https://github.com/rouabenfraj1920-lab/Music-Generator-using-Markov-Chains)** | Academic project exploring how Markov Chains can model and generate music sequences |
+| ❤️ **[Heart-Disease-Prediction-ML-Project](https://github.com/rouabenfraj1920-lab/Heart-Disease-Prediction-Machine-Learning-Project)** | Classifies heart disease risk from medical data — full pipeline: exploration, missing values, feature engineering |
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -76,23 +89,14 @@ roua = {
 
 ---
 
-## 📌 Pinned Projects
-
-| Project | Description |
-|---|---|
-| 🌞 **[SSEOS](https://github.com/rouabenfraj1920-lab)** | IoT + AI system (Random Forest, Gemini agent, OpenWeatherMap, Streamlit) for solar energy optimization — SDGs 7, 9, 13 |
-| 🏭 **[BoardManagement (Asteelflash)](https://github.com/rouabenfraj1920-lab)** | ASP.NET Core MVC app for electronic board validation, built during my internship at Asteelflash Tunisia |
-| 🏠 **[House-Price-Prediction](https://github.com/rouabenfraj1920-lab/House-Price-Prediction)** | Machine Learning project for predicting house prices |
-| 🚑 **[ResQRoute-Project](https://github.com/rouabenfraj1920-lab/ResQRoute-Project)** | Real-time Dynamic Vehicle Routing solution for Emergency Medical Services — built at Humanovators 2.0 Hackathon |
-| 🎵 **[Music-Generator-using-Markov-Chains](https://github.com/rouabenfraj1920-lab/Music-Generator-using-Markov-Chains)** | Academic project exploring how Markov Chains can model and generate music sequences |
-| ❤️ **[Heart-Disease-Prediction-ML-Project](https://github.com/rouabenfraj1920-lab/Heart-Disease-Prediction-Machine-Learning-Project)** | Classifies heart disease risk from medical data — full pipeline: exploration, missing values, feature engineering |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rouabenfraj1920-lab&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://img.shields.io/badge/Total_Projects-5-0D5257?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently_Building-2-F7941D?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rouabenfraj1920-lab&theme=radical" alt="streak" />
 </p>
 
