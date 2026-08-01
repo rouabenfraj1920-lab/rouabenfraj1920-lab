@@ -41,7 +41,7 @@ roua = {
 | Project | Description |
 |---|---|
 | 🌞 **[SSEOS](https://github.com/rouabenfraj1920-lab)** | IoT + AI system (Random Forest, Gemini agent, OpenWeatherMap, Streamlit) for solar energy optimization — SDGs 7, 9, 13 |
-| 🏭 **[BoardManagement (Asteelflash)](https://github.com/rouabenfraj1920-lab)** | C # And ASP.NET Core MVC app for electronic board validation, built during my internship at Asteelflash Tunisia |
+| 🏭 **[BoardManagement (Asteelflash)](https://github.com/rouabenfraj1920-lab)** |C# And ASP.NET Core MVC app for electronic board validation, built during my internship at Asteelflash Tunisia |
 | 🏠 **[House-Price-Prediction](https://github.com/rouabenfraj1920-lab/House-Price-Prediction)** | Machine Learning project for predicting house prices |
 | 🚑 **[ResQRoute-Project](https://github.com/rouabenfraj1920-lab/ResQRoute-Project)** | Real-time Dynamic Vehicle Routing solution for Emergency Medical Services — built at Humanovators 2.0 Hackathon |
 | 🎵 **[Music-Generator-using-Markov-Chains](https://github.com/rouabenfraj1920-lab/Music-Generator-using-Markov-Chains)** | Academic project exploring how Markov Chains can model and generate music sequences |
@@ -91,5 +91,15 @@ roua = {
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://img.shields.io/badge/Total_Projects-5-0D5257?style=for-the-badge" /> <img src="https://img.shields.io/badge/Currently_Building-2-F7941D?style=for-the-badge" /> </p>
-<p align="center"><i>💡 I build systems that work in production, not just in notebooks.</i></p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7941D,100:0D5257&height=120&section=footer&text=Year%202.%20Real%20internship.%20Real%20projects.%20🌸&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="footer banner" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Projects-5-0D5257?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently_Building-2-F7941D?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center"><i>💡 I build systems that work in production, not just in notebooks.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7941D,100:0D5257&height=120&section=footer&text=Year%202.%20Real%20internship.%20Real%20projects.%20🌸&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="footer banner" />
+</p>
