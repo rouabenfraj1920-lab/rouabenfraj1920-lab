@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8B3E8,100:9BC8F7&height=180&section=header&text=Roua%20Ben%20Fraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D5257,100:F7941D&height=180&section=header&text=Roua%20Ben%20Fraj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 </p>
 
 <h3 align="center">AI & Full-Stack Engineer in Progress · ENICarthage · Tunisia 🇹🇳</h3>
@@ -99,3 +99,7 @@ roua = {
 ---
 
 <p align="center"><i>💡 I build systems that work in production, not just in notebooks.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7941D,100:0D5257&height=120&section=footer&text=Year%202.%20Real%20internship.%20Real%20projects.%20🌸&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="footer banner" />
+</p>
