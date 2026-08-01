@@ -91,15 +91,5 @@ roua = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Projects-5-0D5257?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently_Building-2-F7941D?style=for-the-badge" />
-</p>
-
----
-
-<p align="center"><i>💡 I build systems that work in production, not just in notebooks.</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7941D,100:0D5257&height=120&section=footer&text=Year%202.%20Real%20internship.%20Real%20projects.%20🌸&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="footer banner" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Total_Projects-5-0D5257?style=for-the-badge" /> <img src="https://img.shields.io/badge/Currently_Building-2-F7941D?style=for-the-badge" /> </p>
+<p align="center"><i>💡 I build systems that work in production, not just in notebooks.</i></p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7941D,100:0D5257&height=120&section=footer&text=Year%202.%20Real%20internship.%20Real%20projects.%20🌸&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="footer banner" /> </p>
