@@ -96,10 +96,6 @@ roua = {
   <img src="https://img.shields.io/badge/Currently_Building-2-F7941D?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rouabenfraj1920-lab&theme=radical" alt="streak" />
-</p>
-
 ---
 
 <p align="center"><i>💡 I build systems that work in production, not just in notebooks.</i></p>
