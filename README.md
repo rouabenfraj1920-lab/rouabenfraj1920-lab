@@ -7,7 +7,7 @@
   <a href="mailto:roua.benfradj@enicar.ucar.tn"><img src="https://img.shields.io/badge/EMAIL-roua.benfradj@enicar.ucar.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Chair @ IEEE Computer Society ENICarthage · 150+ members · Passionate about applied AI and full-stack development.</i></p>
+<p align="center"><i>Chair @ IEEE Computer Society ENICarthage ·  · Passionate about  AI and full-stack development.</i></p>
 
 ---
 
@@ -17,9 +17,8 @@
 roua = {
     "role": "Computer Engineering Student — ENICarthage (Year 2)",
     "leadership": "Chair, IEEE Computer Society Student Chapter (150+ members)",
-    "internship": "AI/Web Developer @ Asteelflash Tunisia (Manufacturing)",
-    "focus": ["Full-Stack Web Dev", "Machine Learning", "IoT", "LLMs & AI Agents"],
-    "currently_prepping": "TSYP14 — Technical Challenge (August 2026)",
+    "internship": "Web Developer @ Asteelflash Tunisia (Manufacturing)",
+    "focus": ["AI " ,"Machine Learning", "LLMs & AI Agents" , "Full-Stack Web Dev"],
     "open_to": "Internships & collaborations in AI Engineering 🌸"
 }
 ```
