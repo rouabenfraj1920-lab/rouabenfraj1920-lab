@@ -45,8 +45,7 @@ roua = {
 | 🚑 **[ResQRoute-Project](https://github.com/rouabenfraj1920-lab/ResQRoute-Project)** | Real-time Dynamic Vehicle Routing solution for Emergency Medical Services — built at Humanovators 2.0 Hackathon |
 | 🎵 **[Music-Generator-using-Markov-Chains](https://github.com/rouabenfraj1920-lab/Music-Generator-using-Markov-Chains)** | Academic project exploring how Markov Chains can model and generate music sequences |
 | ❤️ **[Heart-Disease-Prediction-ML-Project](https://github.com/rouabenfraj1920-lab/Heart-Disease-Prediction-Machine-Learning-Project)** | Classifies heart disease risk from medical data — full pipeline: exploration, missing values, feature engineering |
-| 🔧 **Electronic Board Validation App** | ASP.NET Core MVC application for electronic board validation and management, including StartupBoards, Boot Configuration, dashboards, authentication, and SQL Server integration via Entity Framework Core. |
-
+| 🔧 **[Electronic Board Validation App](https://github.com/rouabenfraj1920-lab/your-repository)** | ASP.NET Core MVC application for electronic board validation and management, including StartupBoards, Boot Configuration, dashboards, authentication, and SQL Server integration via Entity Framework Core. |
 ---
 
 ## 🛠️ Tech Stack
