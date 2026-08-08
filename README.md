@@ -27,9 +27,8 @@ roua = {
 ```
 
 ## 🔧 Currently Building
-
-**Electronic Board Validation App** *(Asteelflash Internship)*
-> ASP.NET Core MVC application for the manufacturing industry: Board management, StartupBoards, BootConfig, real-time dashboards, connected to SQL Server via EF Core.
+**AI Resume Assistant (LLM + RAG)** 
+>An AI-powered resume analysis platform that extracts information from PDF resumes, identifies technical skills with NLP, generates professional summaries using LLMs, and is being extended with ChromaDB and Retrieval-Augmented Generation (RAG) for semantic search, CV–job matching, and AI-driven career recommendations.
 
 **SSEOS — Smart Solar Energy Optimization System**
 > A complete system combining IoT sensors, a Random Forest model, an AI agent (Google Gemini), real-time weather data (OpenWeatherMap), and a Streamlit dashboard — built to optimize solar energy usage for African households. Aligned with SDGs 7, 9, and 13.
@@ -46,6 +45,7 @@ roua = {
 | 🚑 **[ResQRoute-Project](https://github.com/rouabenfraj1920-lab/ResQRoute-Project)** | Real-time Dynamic Vehicle Routing solution for Emergency Medical Services — built at Humanovators 2.0 Hackathon |
 | 🎵 **[Music-Generator-using-Markov-Chains](https://github.com/rouabenfraj1920-lab/Music-Generator-using-Markov-Chains)** | Academic project exploring how Markov Chains can model and generate music sequences |
 | ❤️ **[Heart-Disease-Prediction-ML-Project](https://github.com/rouabenfraj1920-lab/Heart-Disease-Prediction-Machine-Learning-Project)** | Classifies heart disease risk from medical data — full pipeline: exploration, missing values, feature engineering |
+| 🔧 **Electronic Board Validation App** | ASP.NET Core MVC application for electronic board validation and management, including StartupBoards, Boot Configuration, dashboards, authentication, and SQL Server integration via Entity Framework Core. |
 
 ---
 
