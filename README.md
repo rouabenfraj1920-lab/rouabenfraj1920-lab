@@ -21,7 +21,7 @@ roua = {
     "role": "Computer Engineering Student — ENICarthage (Year 2)",
     "leadership": "Chair, IEEE Computer Society Student Chapter (150+ members)",
     "internship": "Web Developer Intern @ Asteelflash Tunisia (Manufacturing)",
-    "focus": ["AI", "Machine Learning", "IoT", "LLMs & AI Agents", "Full-Stack Web Dev"],
+    "focus": ["AI", "Machine Learning", "Deep Learning", "LLMs & AI Agents", "Full-Stack Web Dev"],
     "open_to": "Internships & collaborations in AI Engineering 🌸"
 }
 ```
